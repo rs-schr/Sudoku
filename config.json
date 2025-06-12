@@ -1,0 +1,8 @@
+{
+  "count": 8,
+  "level": 2,
+  "hints": true,
+  "debug": false,
+  "language": "de",
+  "output_file": "Sudoku.pdf"
+}
